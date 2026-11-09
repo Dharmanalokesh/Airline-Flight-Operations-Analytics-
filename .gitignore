@@ -1,0 +1,17 @@
+# Databricks
+.databricks/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Credentials and secrets
+*.pem
+*.key
+credentials.json
+
+# System files
+.DS_Store
+Thumbs.db
